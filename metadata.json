@@ -1,0 +1,6 @@
+{
+  "name": "SafeDelivery",
+  "description": "Voice-first, triage-integrated emergency transit coordination platform for maternal healthcare.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
